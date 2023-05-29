@@ -11,4 +11,7 @@ I built this project to test out Git and GitHub functions. I also wanted to crea
 ## How to Use
 Simply refresh the code to receive a randomly generated motivational quotation!
 ## Technologies
-Visual Studio Code - Used to create the code
+Visual Studio Code - the command line used to create the code
+JavaScript - the program
+Git - manages the source code
+GitHub - hosts and stores the Git repository
